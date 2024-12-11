@@ -4,4 +4,4 @@
 
 ## Info
 
-Test coverage based on previously submitted test plan in part 1 of the assignmentm (Only files included in the test plan count toward coverage).
+Test coverage based on previously submitted test plan in part 1 of the assignment (Only files included in the test plan count toward coverage).
